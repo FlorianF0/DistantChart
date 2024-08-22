@@ -1,4 +1,0 @@
-apiVersion: v1
-name: ChartDistant
-description: helmchart de ChartDistant
-version: 1.0.0
