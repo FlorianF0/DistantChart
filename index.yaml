@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-22T16:10:05.265826696+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 863830c2af564609a1b486c9a0d62cf51c0b1e3526793e3a414c4588dbcd8dbf
+    name: mychart
+    type: application
+    urls:
+    - https://florianf0.github.io/DistantChart/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-22T16:10:05.263065122+02:00"
